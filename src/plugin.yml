@@ -1,0 +1,9 @@
+name: SpeedUHC
+version: 1.0
+main: me.syes.speeduhc.SpeedUHC
+author: Syes
+description: SpeedUHC Plugin
+commands:
+  suhc:
+    description: main plugin command
+    aliases: [speeduhc]
